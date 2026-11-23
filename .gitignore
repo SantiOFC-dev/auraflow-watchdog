@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+__pycache__/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite*
+.env*
+auth_info_baileys/
+dashboard_store.json
+bot_data.json
+*.pem
+*.key
+*.log
